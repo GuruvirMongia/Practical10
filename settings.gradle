@@ -1,0 +1,2 @@
+rootProject.name='Practical 100'
+include ':app'
